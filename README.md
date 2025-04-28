@@ -17,7 +17,7 @@
 ## 📄 Résumé & Contact
 
 - [LinkedIn Profile](https://www.linkedin.com/in/wingtonbrito)
-- ✉️ [Email] wingtonrbrito@gmail.com
+- ✉️ [Email](wingtonrbrito@gmail.com)
 
 ---
 
