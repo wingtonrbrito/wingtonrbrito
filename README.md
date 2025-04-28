@@ -7,7 +7,7 @@
 ## 🚀 Core Skills & Technologies
 
 - ✅ **Languages:** TypeScript · JavaScript · Python · SQL
-- ✅ **Frameworks & Tools:** React · Node.js · Express · FastAPI · Ts.ED · Angular
+- ✅ **Frameworks & Tools:** React · Node.js · Express · FastAPI · Ts.ED · Angular · NextJS
 - ✅ **Cloud & Infrastructure:** AWS (EC2 · Lambda · API Gateway) · Cloudflare (Workers · Pages) · Terraform · Docker · GitHub Actions
 - ✅ **Data & ML:** PostgreSQL · MongoDB · Redis · Kafka · Apache Airflow · ETL Pipelines
 - ✅ **AI & Automation:** OpenAI (GPT-3.5-turbo) · AWS Bedrock · Vector Search · Recommendation Engines · LLM Integrations
