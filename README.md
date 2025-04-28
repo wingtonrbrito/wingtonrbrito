@@ -16,7 +16,6 @@
 
 ## 📄 Résumé & Contact
 
-- [View My Résumé (PDF)](https://github.com/wingtonrbrito/Wington_Brito_Resume.pdf)
 - [LinkedIn Profile](https://www.linkedin.com/in/wingtonbrito)
 - ✉️ wingtonrbrito@gmail.com
 
