@@ -6,8 +6,8 @@
 
 ## 🚀 Core Skills
 
-- ✅ TypeScript · Python · React · Node.js · Express · Ts.ED · FastAPI · FastAPI
-- ✅ AWS (EC2 · Lambda · API Gateway) · Terraform · Docker · GitHub Actions
+- ✅ TypeScript · Python · React · Node.js · Express · FastAPI · Ts.ED · FastAPI · Angular
+- ✅ AWS (EC2 · Lambda · API Gateway) · Cloudflare (Workers · Pages · R2 · D1), Terraform · Docker · GitHub Actions
 - ✅ PostgreSQL · MongoDB · Redis · Kafka · ETL Pipelines
 - ✅ LLMs · OpenAI · AWS Bedrock · Vector Search · Recommendation Engines
 
