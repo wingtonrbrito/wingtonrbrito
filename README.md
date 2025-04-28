@@ -10,7 +10,7 @@
 - ✅ **Frameworks & Tools:** React · Node.js · Express · FastAPI · Ts.ED · Angular · NextJS
 - ✅ **Cloud & Infrastructure:** AWS (EC2 · Lambda · API Gateway, Kinesis) · Cloudflare (Workers · Pages) · Terraform · Docker · GitHub Actions
 - ✅ **Data & ML:** PostgreSQL · MongoDB · Redis · Kafka · Apache Airflow · ETL Pipelines
-- ✅ **AI & Automation:** OpenAI (GPT-3.5-turbo) · AWS Bedrock · Vector Search · Recommendation Engines · LLM Integrations
+- ✅ **AI & Automation:** OpenAI (GPT-3.5-turbo) · AWS Bedrock · Vector Search · Recommendation Engines · LLM Integrations · AI agents 
 
 ---
 
@@ -34,6 +34,6 @@
 
 ## 🏷️ Topics
 
-`full-stack` `typescript` `react` `nodejs` `aws` `terraform` `docker` `ml-pipelines` `llm` `vector-search` `microservices` `ci-cd` `etl`
+`full-stack` `typescript` `react` `nodejs` `aws` `terraform` `docker` `ml-pipelines` `llm` `vector-search` `microservices` `ci-cd` `etl` `AI agents`
 
 ---
