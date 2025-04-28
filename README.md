@@ -38,6 +38,3 @@
 `full-stack` `typescript` `react` `nodejs` `aws` `terraform` `docker` `ml-pipelines` `llm` `vector-search` `microservices` `ci-cd` `etl`
 
 ---
-
-*Profile README optimized with action-oriented keywords and quantifiable outcomes to surface in recruiter searches and ATS parsers.*
-
