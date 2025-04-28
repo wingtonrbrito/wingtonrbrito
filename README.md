@@ -1,37 +1,43 @@
 # Wington Brito
 
-**Senior Full‑Stack Engineer**  specializing in scalable web & mobile applications, data & ML pipelines, multi-tenant platforms, and AI-driven automations.
+**Senior Full‑Stack Engineer** specializing in scalable web & mobile applications, data & ML pipelines, multi‑tenant data platforms, and AI‑driven automations.
 
 ---
 
-## 🚀 Core Skills
+## 🚀 Core Skills & Technologies
 
-- ✅ TypeScript · Python · React · Node.js · Express · FastAPI · Ts.ED · FastAPI · Angular
-- ✅ AWS (EC2 · Lambda · API Gateway) · Cloudflare (Workers · Pages · R2 · D1), Terraform · Docker · GitHub Actions
-- ✅ PostgreSQL · MongoDB · Redis · Kafka · ETL Pipelines
-- ✅ LLMs · OpenAI · AWS Bedrock · Vector Search · Recommendation Engines
+- ✅ **Languages:** TypeScript · JavaScript · Python · SQL
+- ✅ **Frameworks & Tools:** React · Node.js · Express · FastAPI · Ts.ED · Angular
+- ✅ **Cloud & Infrastructure:** AWS (EC2 · Lambda · API Gateway) · Cloudflare (Workers · Pages) · Terraform · Docker · GitHub Actions
+- ✅ **Data & ML:** PostgreSQL · MongoDB · Redis · Kafka · Apache Airflow · ETL Pipelines
+- ✅ **AI & Automation:** OpenAI (GPT-3.5-turbo) · AWS Bedrock · Vector Search · Recommendation Engines · LLM Integrations
 
 ---
 
-## 📄 Get in Touch
+## 📄 Résumé & Contact
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/clbmw)
-- ✉️ [MAILING-E](wingtonrbrito@gmail.com)
+- [View My Résumé (PDF)](https://github.com/wingtonrbrito/Wington_Brito_Resume.pdf)
+- [LinkedIn Profile](https://www.linkedin.com/in/wingtonbrito)
+- ✉️ wingtonrbrito@gmail.com
 
 ---
 
 ## 📌 Pinned Projects
 
-1. **[Full‑Stack Node + TS + React Template](https://github.com/wingtonrbrito/full-stack-node-ts-react-template)**
-   - Production‑grade starter with Express, React, TypeORM, Docker, Terraform, GitHub Actions.
-2. **[End‑to‑End Leads ML Pipeline](https://github.com/wingtonrbrito/e2e-leads-machine-learning-pipeline)**
-   - Scalable Airflow + Dataflow pipeline on GCP with Vertex AI for sentiment & lead scoring.
-
-<!-- Add up to 4 more flagship repos below -->
+| Project | Technology | Description |
+|---|---|---|
+| [full-stack-node-ts-react-template](https://github.com/wingtonrbrito/full-stack-node-ts-react-template) | Node.js · TypeScript · React · Docker · AWS · Terraform · GitHub Actions | Production-grade starter template featuring modular microservices, CI/CD pipelines, and OAuth-secured admin portal. |
+| [e2e-leads-machine-learning-pipeline](https://github.com/wingtonrbrito/e2e-leads-machine-learning-pipeline) | Python · Airflow · Dataflow · BigQuery · Vertex AI | End-to-end ML pipeline on GCP for sentiment analysis & lead scoring with DAG orchestration. |
+| [ai-content-extraction-agent](#) | LangGraph · AWS Bedrock · DynamoDB | AI-driven content extraction agent processing 10k+ URIs with real-time recommendations. |
+| [react-admin-portal](#) | React · TypeScript · OAuth · FastAPI | Scalable React TS admin portal supporting 10k+ users and reducing support response times by 80%. |
 
 ---
 
 ## 🏷️ Topics
 
-`TypeScript` · `Python` · `Node.js` · `React` · `AWS` · `Terraform` · `Docker` · `CI/CD` · `Microservices` · `REST` · `WebSockets` · `OAuth` · `ETL` · `ML pipelines` · `LLM` · `Vector Search` · `Recommendation Engine`
+`full-stack` `typescript` `react` `nodejs` `aws` `terraform` `docker` `ml-pipelines` `llm` `vector-search` `microservices` `ci-cd` `etl`
+
+---
+
+*Profile README optimized with action-oriented keywords and quantifiable outcomes to surface in recruiter searches and ATS parsers.*
 
