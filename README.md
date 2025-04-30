@@ -8,7 +8,7 @@
 
 - [Book Reader AI](https://hellokooper.com/) – React · TypeScript · Modern.js · Node.js · Cloudflare Workers · Worker AI · Stripe Payments · Postmark · Resend (monorepo with Modern.js frontend & CF Workers back-end)
 - [WikiExplain](https://wikiexplain.com/) – Gatsby · React · MDX · GraphQL · FlexSearch · Tailwind CSS · Remark/Katex (content-driven blog with powerful search)
-- [NeyB Apps Portfolio](https://neybapps.com/) – React · TypeScript · Apollo GraphQL · Chart.js · BaseUI · React Spring · Styled-Components · GitHub Pages (interactive charts & personal showcase)
+- [Neybapps Portfolio](https://neybapps.com/) – React · TypeScript · Apollo GraphQL · Chart.js · BaseUI · React Spring · Styled-Components · GitHub Pages (interactive charts & personal showcase)
 - [Dynasty Ballroom](https://dynastyballroom.com/) – Next.js · React · Tailwind CSS · HeadlessUI · Vercel (marketing landing page with sentiment insights)
 
 ---
