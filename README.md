@@ -1,6 +1,6 @@
 # Wington Brito
 
-**Senior Full-Stack Engineer** specializing in scalable web & mobile applications, data & ML pipelines, multi-tenant data platforms, and AI-driven automations.
+**Full-stack engineer** specializing in scalable TypeScript/Node.js microservices, React/Next.js front-ends, and AI-driven features. Passionate about clean code, distributed systems, and delivering direct business impact.
 
 ---
 
@@ -16,7 +16,7 @@
 ## 🚀 Core Skills & Technologies
 
 - ✅ **Languages:** TypeScript · JavaScript · Python · SQL  
-- ✅ **Frameworks & Tools:** React · Node.js · Express · FastAPI · Ts.ED · React Native · Angular · NextJS · Gastby
+- ✅ **Frameworks & Tools:** React · Next.js · Node.js · Nest.js · Express · Ts.ED · React Native · Angular · Gastby · HTML/CSS
 - ✅ **Cloud & Infrastructure:** AWS (EC2 · Lambda · API Gateway · Kinesis) · Cloudflare (Workers · Pages) · Terraform · Docker · Jenkins · GitHub Actions  
 - ✅ **Data & ML:** PostgreSQL · MongoDB · GraphQL · Redis · Kafka · Apache Airflow · ETL Pipelines · Dataflow  
 - ✅ **AI & Automation:** OpenAI (GPT-3.5-turbo) · AWS Bedrock · Vector Search · Recommendation Engines · LLM Integrations · AI Agents  
