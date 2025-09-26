@@ -1,6 +1,7 @@
 # Wington Brito
-**Full-stack engineer** specializing in scalable TypeScript/Node.js microservices, React/Next.js front-ends, and AI-driven features. Passionate about clean code, distributed systems, and delivering direct business impact.
+Full-stack engineer specializing in scalable TypeScript/Node.js microservices, React/Next.js front-ends, and AI-driven features. Passionate about clean code, distributed systems, and delivering direct business impact.
 ---
+
 ## 🚀 Core Skills & Technologies
 - ✅ **Languages:** TypeScript · JavaScript · Python · SQL  
 - ✅ **Frontend:** React · Next.js 15 · React Native · Angular · Gatsby · Mantine UI · Tailwind CSS · HeadlessUI · HTML/CSS
@@ -11,10 +12,12 @@
 - ✅ **AI & ML:** OpenAI GPT · Google Gemini AI · Document AI · AWS Bedrock · LangGraph · Vector Search · LLM Integrations · AI Agents · MCP (Model Context Protocol) · Autonomous Systems · Event-Driven Architecture
 - ✅ **Payments & Services:** Stripe · Postmark · Resend · OAuth · Real-time Monitoring
 ---
+
 ## 📄 Contact
 - [LinkedIn Profile](https://www.linkedin.com/in/wingtonbrito)  
 - ✉️ [Email](mailto:wingtonrbrito@gmail.com)  
 ---
+
 ## 📌 Pinned Projects
 | Project | Technology | Description |
 |---|---|---|
@@ -28,5 +31,6 @@
 | [ai-content-extraction-agent](https://github.com/wingtonrbrito/ai-content-extraction-agent) | LangGraph · AWS Bedrock · DynamoDB | AI-driven content extraction agent processing 10k+ URIs with real-time recommendations. |
 | [react-admin-portal](https://github.com/wingtonrbrito/react-admin-portal) | React · TypeScript · OAuth · FastAPI | Scalable React TS admin portal supporting 10k+ users and reducing support response times by 80%. |
 ---
+
 ## 🏷️ Topics
 `full-stack` `typescript` `react` `nodejs` `aws` `gcp` `terraform` `docker` `ml-pipelines` `etl` `vector-search` `llm` `microservices` `ci-cd` `ai-agents` `mcp` `autonomous-systems` `document-ai` `real-time` `event-driven`
