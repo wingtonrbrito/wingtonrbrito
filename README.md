@@ -1,6 +1,6 @@
 # Wington Brito
 
-Full-stack engineer specializing in scalable TypeScript/Node.js microservices, React/Next.js front-ends, and AI-driven features. Passionate about clean code, distributed systems, and delivering direct business impact.
+Full-stack AI engineer specializing in scalable AI systems, Python, TypeScript/Node.js microservices, React/Next.js front-ends, and AI-driven features. Passionate about clean code, distributed systems, and delivering direct business impact.
 
 ---
 
