@@ -1,7 +1,7 @@
 
 # Wington Brito
 
-**Full-Stack ML Engineer** building production AI systems for **Anthropic**, **Meta**, and YC-backed startups. Specializing in **multi-agent systems**, **RAG pipelines**, **vector databases**, and **scalable ML infrastructure**. 2 years ML engineering + 8 years full-stack experience delivering **measurable business impact** (85% efficiency gains, 70% cost reductions, <50ms latency at scale).
+**Full-Stack ML Engineer** building the systems that train AI models like Claude, ChatGPT, and Meta AI. Production experience at Anthropic, Meta, and YC-backed startups. Specializing in multi-agent systems, RAG pipelines, vector databases, and scalable ML infrastructure. 2 years ML engineering + 8 years full-stack experience delivering measurable business impact (85% efficiency gains, 70% cost reductions, <50ms latency at scale).
 
 ---
 
