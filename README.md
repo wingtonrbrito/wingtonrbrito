@@ -104,9 +104,8 @@ Comprehensive portfolio documenting:
 
 ## 📫 Connect
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/wingtonbrito)
+- 💼 [LinkedIn](https://www.linkedin.com/in/clbmw/)
 - ✉️ [Email](mailto:wingtonrbrito@gmail.com)
-- 🌐 [Arc.dev Profile](https://arc.dev/developer/wingtonbrito)
 - 🐙 [GitHub](https://github.com/wingtonrbrito)
 
 ---
